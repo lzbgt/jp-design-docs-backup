@@ -48,4 +48,4 @@ junoplatform 是一个伞概念, 包括:
 <img class="op-uc-image op-uc-image_inline" src="sd_deploy.png">
 <img class="op-uc-image op-uc-image_inline" src="sd_ui.png">
 <img class="op-uc-image op-uc-image_inline" src="sd_algo.png">
-<img class="op-uc-image op-uc-image_inline" src="sd_algo.png">
+<img class="op-uc-image op-uc-image_inline" src="cluster.png">
